@@ -1,3 +1,4 @@
+Reference: Nolen, J. Ryan, et al. "Ultraviolet to far-infrared dielectric function of n-doped cadmium oxide thin films." Physical Review Materials 4.2 (2020): 025202.
 clear all
 close all
 w=[1000:1:8000];
